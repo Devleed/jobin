@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "936169566699",
+    "firebase_url": "https://streamify-259718.firebaseio.com",
+    "project_id": "streamify-259718",
+    "storage_bucket": "streamify-259718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936169566699:android:7dd191f8db006b3a6029ae",
+        "android_client_info": {
+          "package_name": "com.jobinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936169566699-000s4fnoq8ssra5e2qe64jf4c87g79u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobinn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o93YuS7pqrHVmhW9UYVIuJ7RxKGTPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936169566699:android:c4e5ffd10dbdcbe76029ae",
+        "android_client_info": {
+          "package_name": "com.reactnativepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936169566699-g5altud149utgi2ri49252a28u31n6uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativepractice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o93YuS7pqrHVmhW9UYVIuJ7RxKGTPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936169566699:android:6c0764d86abec4126029ae",
+        "android_client_info": {
+          "package_name": "com.tinderswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936169566699-8ff35f04s9qmdtcrm26bmt4q7lvvo23g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinderswipe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o93YuS7pqrHVmhW9UYVIuJ7RxKGTPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
